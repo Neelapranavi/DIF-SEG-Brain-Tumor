@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+logs/
+debug/
+results/
+dataset/raw/
+dataset/processed/
+.env
